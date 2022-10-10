@@ -1,0 +1,26 @@
+/** @format */
+
+const movies = [
+  {
+    id: 1,
+    name: 'Interstellar',
+    date: '2008',
+  },
+  {
+    id: 2,
+    name: 'Interstellar',
+    date: '2008',
+  },
+  {
+    id: 3,
+    name: 'Interstellar',
+    date: '2008',
+  },
+  {
+    id: 4,
+    name: 'Interstellar',
+    date: '2008',
+  },
+];
+
+module.exports = movies;
